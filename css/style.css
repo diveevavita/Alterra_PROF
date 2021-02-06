@@ -235,7 +235,7 @@ body {
 	outline: none;
 }
 
-/*111111111111111111111111*/
+
 
 .private_club-prof {
 	background-color: #f3f6f8;
@@ -450,7 +450,20 @@ body {
 	outline: none;
 }
 
-/*111111111111111111111111*/
+.button_customer:hover {
+	color: #ffffff;
+	background-color: #F44336;
+}
+
+.button_customer:active {
+	color: #ffffff;
+	background-color: #F44336;
+	border-color: #ffffff;
+	border-radius: 5px;
+	outline: none;
+}
+
+
 
 @media (min-width: 1201px) and (max-width: 1400px) {
 
