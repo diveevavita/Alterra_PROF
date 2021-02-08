@@ -387,6 +387,7 @@ body {
 
 .prof_advantages-add__category-icon {
 	margin-bottom: 20px;
+	margin: 0 auto 10px auto;
 }
 
 .prof_advantages-add__category-inform-text {
@@ -397,6 +398,7 @@ body {
     letter-spacing: 1px;
     line-height: 120%;
     margin: 0;
+    text-align: center;
 }
 
 .prof_advantages-add_buttons {
@@ -581,7 +583,7 @@ body {
 	}
 
 	.icon-alterra {
-		top: 1400px;
+		top: 1300px;
 	}
 
 	.private_club-prof_advantages-add {
