@@ -207,6 +207,10 @@ body {
 	margin: 0;
 }
 
+.button_card-link {
+	text-decoration: none;
+}
+
 .button_card {
 	height: 62px;
 	text-transform: uppercase;
@@ -463,6 +467,14 @@ body {
 	border-color: #ffffff;
 	border-radius: 5px;
 	outline: none;
+}
+
+.button_prof-link {
+	text-decoration: none;
+}
+
+.button_customer-link {
+	text-decoration: none;
 }
 
 
@@ -773,6 +785,14 @@ body {
 		height: auto;
 		font-size: 18px;
 	}
+
+	.button_prof-link {
+		margin: 0 auto;
+	}
+
+	.button_customer-link {
+		margin: 0 auto;
+	}
 }
 
 @media (min-width: 871px) and (max-width: 960px) {
@@ -1050,6 +1070,14 @@ body {
 		height: auto;
 		font-size: 16px;
 	}
+
+	.button_prof-link {
+		margin: 0 auto;
+	}
+
+	.button_customer-link {
+		margin: 0 auto;
+	}
 }
 
 @media (max-width: 480px) {
@@ -1257,5 +1285,13 @@ body {
 		height: auto;
 		font-size: 14px;
 		padding: 10px 10px;
+	}
+
+	.button_prof-link {
+		margin: 0 auto;
+	}
+
+	.button_customer-link {
+		margin: 0 auto;
 	}
 }
